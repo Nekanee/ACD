@@ -1,0 +1,14 @@
+{
+    "nombre": "DAM",
+    "participantes": [{
+            "horas": "6",
+            "id": "1",
+            "Nota": "8.45",
+            "nombre": "Acceso a datos"
+        }, {
+            "horas": "3",
+            "id": "2",
+            "Nota": "9.0",
+            "nombre": "Programacion"
+        }]
+}

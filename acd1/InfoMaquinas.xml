@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taburetes>
+    <taburete id="111">
+        <nombre>Taburete arcade</nombre>
+        <caracteristicas>Giro 360 grados y ajustable en altura</caracteristicas>
+        <proteccion>Antideslizante en la base</proteccion>
+        <acabado>Alta calidad y muy firme</acabado>
+        <alturaTotal>63 - 84 cm</alturaTotal>
+        <asiento>35 cm</asiento>
+        <base>39 cm</base>
+        <disRepoAsi>43 cm</disRepoAsi>
+        <pie>6 cm</pie>
+        <peso>4,8 kg</peso>
+        <material>Cuero sintético, acero cromado, plástico y tela</material>
+    </taburete>
+    <taburete id="222">
+        <nombre>Taburete minions</nombre>
+        <caracteristicas>Giro 180 grados y ajustable en altura</caracteristicas>
+        <proteccion>Antideslizante en la base</proteccion>
+        <acabado>Alta calidad y muy firme</acabado>
+        <alturaTotal>55-65 cm</alturaTotal>
+        <asiento>22 cm</asiento>
+        <base>28 cm</base>
+        <disRepoAsi>33 cm</disRepoAsi>
+        <pie>5 cm</pie>
+        <peso>3,5 kg</peso>
+        <material>Cuero natural, plástico y tela</material>
+    </taburete>
+    <taburete id="333">
+        <nombre>Taburete Mario Bros</nombre>
+        <caracteristicas>Giro 360 grados y ajustable en altura</caracteristicas>
+        <proteccion>Antideslizante en la base</proteccion>
+        <acabado>Alta calidad y muy firme</acabado>
+        <alturaTotal>68-90 cm</alturaTotal>
+        <asiento>40 cm</asiento>
+        <base>45 cm</base>
+        <disRepoAsi>50 cm</disRepoAsi>
+        <pie>8 cm</pie>
+        <peso>6 kg</peso>
+        <material>Cuero natural y tela</material>
+    </taburete>
+</taburetes>
